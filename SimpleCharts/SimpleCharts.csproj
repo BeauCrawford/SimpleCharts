@@ -42,7 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SimpleBarChart.cs" />
     <Compile Include="SimpleChart.cs" />
+    <Compile Include="SimpleLineChart.cs" />
     <Compile Include="SimplePieChart.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
